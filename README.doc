@@ -1,0 +1,19 @@
+Thanks for reading my code
+This application is used to display the Galton Board experiment
+
+Some notice in application:
+
+Button:
+    Start -- start to display
+    Pause -- pause the display
+    Clear -- clear current axes
+    Exit --quit the application
+    
+Knob:
+    NumberKnob -- choose the number of balls
+    VelocityKnob -- choose the velocity of balls
+
+One big deficiency is that a figure will show up when you press the continue button,because I use uiresume.
+You can also find my code in https://ww2.mathworks.cn/matlabcentral/fileexchange/67995-galtonboard?s_tid=srchtitle
+
+Email me at 957504018@qq.com
